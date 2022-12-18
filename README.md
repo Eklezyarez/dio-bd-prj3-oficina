@@ -4,7 +4,7 @@
 ### Clientes levam veículos à oficina para conserto
 ### Cada veículo é designado a uma equipe
 ### Identificação dos serviços a serem executados
-### Preenchimento OS com data de ent
+### Preenchimento OS com data de en
 
 
 
